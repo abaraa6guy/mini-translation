@@ -13,7 +13,7 @@ This project provides a simple translation example using various translation API
 
 ## Usage
 1. Clone the repository.
-2. Install the required libraries.
+2. Install the required libraries with `pip install -r requirements.txt`.
 
 ## Future Plans
 - Enhance translation accuracy.
